@@ -16,7 +16,7 @@ week: "12"
 ---
 # Introduction
 
-I like [Obsidian](https://obsidian.md) , but I find how it syncs settings and plugins to be frustrating. I created this notebook to be a starter kit I could download from a central place that would give me an Obsidian notebook with settings and structure that I like. 
+I like [Obsidian](https://obsidian.md) but I find how it syncs settings and plugins to be frustrating. I created this notebook to be a starter kit I could download from a central place that would give me an Obsidian notebook with settings and structure that I like. 
 
 Read the [Obsidian Docs](https://help.obsidian.md/Home) for more information about how obsidian works.
 
