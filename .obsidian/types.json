@@ -1,0 +1,21 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "ai-training-data": "checkbox",
+    "ai-training-weight": "number",
+    "relations": "multitext",
+    "companies": "multitext",
+    "members": "multitext",
+    "event-date-time": "datetime",
+    "value-in-dollars": "number",
+    "date-time": "datetime",
+    "due-date": "datetime",
+    "completed": "checkbox",
+    "assignees": "multitext",
+    "requirements": "multitext",
+    "time-estimate-in-hours": "number",
+    "time-completed-in-hours": "number"
+  }
+}

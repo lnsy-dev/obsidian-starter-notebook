@@ -1,0 +1,13 @@
+{
+  "model": "gpt-4-0125-preview",
+  "apiKey": "",
+  "imgSize": "256x256",
+  "saveImg": "attachment",
+  "useSearchEngine": false,
+  "searchEngine": "bing",
+  "bingSearchKey": "",
+  "promptPerfectKey": "",
+  "usePromptPerfect": false,
+  "promptsForSelected": "",
+  "promptsForPdf": ""
+}

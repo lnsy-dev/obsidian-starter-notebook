@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "f20d355d53c6be0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fa7817f21206770",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a05df2a59d3cab30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4e1693447dd19838",
+    "type": "split",
+    "children": [
+      {
+        "id": "39de0daa2f06b784",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95a2653ba574efee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "58db9181e732cc13",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5c6c0e06b013f4eb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "159d2d75bb4d3f68",
+    "type": "split",
+    "children": [
+      {
+        "id": "223a4494e50537ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd64dd3a1e100ba0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "63b9c6dcd0664089",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eb9a7e507c64645f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f6f25bfbb03b18fa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "adb9d97c8df8568e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-omnivore:Omnivore": false,
+      "periodic-notes:Open today": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
+    }
+  },
+  "active": "a05df2a59d3cab30",
+  "lastOpenFiles": [
+    "media/README/25f904f551379ffe9b8ddb8e1286e524_MD5.png",
+    "README.md",
+    "media/README",
+    "media",
+    "templates/task.md",
+    "templates/daily-note.md",
+    "log/2024-03-21.md",
+    "templates/event.md",
+    "templates/Untitled.md",
+    "templates/credit.md",
+    "templates/expense.md",
+    "templates/organization.md",
+    "templates/person.md",
+    "templates/monthly-note.md",
+    "templates/yearly-note.md",
+    "templates/weekly-note.md",
+    "templates/quarterly-note.md",
+    "templates/default.md",
+    "log/2024-W12.md",
+    "log/2024.md",
+    "templates/place.md",
+    "log/2024-Q1.md",
+    "log/2024-03.md",
+    "2024-03-21.md",
+    "db/Wikidata.md",
+    "log",
+    "db",
+    "articles",
+    "templates"
+  ]
+}
