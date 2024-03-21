@@ -25,7 +25,7 @@ Read the [Obsidian Docs](https://help.obsidian.md/Home) for more information abo
 A few things need to be setup before you can use this notebook. 
 
 ## Install Atkinson Hyperlegible Font (Optional)
-Before opening this notebook in Obsidian, download the font: https://brailleinstitute.org/freefont.
+Before opening this notebook in Obsidian, download and install the font: https://brailleinstitute.org/freefont.
 
 ## AI Commander API Key
 You need an OpenAI API key. You can generate one here: https://platform.openai.com/api-keys. I have set the model to ChatGPT-4, this might be too expensive for your tastes. You can select a different model from here: https://platform.openai.com/docs/models/continuous-model-upgrades. 
