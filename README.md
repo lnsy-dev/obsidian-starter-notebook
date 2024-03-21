@@ -35,7 +35,7 @@ Go to [Omnivore.app](https://omnivore.app) to create an account and get an API K
 
 # Installed Plugins 
 
-These plugins can be accessed using *command-p* or *ctrl-p* and then typing their names depending on your system.
+These plugins can be accessed using *command-p* or *ctrl-p* depending on your system and then typing their names .
 
 ## Advanced Slides
 Create a slide show, view it in browser at address https://localhost:3333. https://mszturc.github.io/obsidian-advanced-slides/
