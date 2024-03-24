@@ -17,7 +17,7 @@
   "version": "1.9.4",
   "isSingleFile": false,
   "frequency": 60,
-  "intervalId": 14726,
+  "intervalId": 4,
   "frontMatterVariables": [
     "title",
     "author",

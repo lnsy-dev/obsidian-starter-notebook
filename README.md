@@ -32,14 +32,34 @@ Then you can download the app. You download the app by clicking the green button
 
 A few things need to be setup before you can use this notebook. 
 
+Open the Obsidian app you installed. When you get to an editor page press ctrl-p or apple-key-p depending on your system. Here you will get the context menu with all of your options. 
+
+[[media/README/6f63461daaa1d7d64466cf8fd425e47a_MD5.png|Open: Screenshot from 2024-03-24 12-05-06.png]]
+![[media/README/6f63461daaa1d7d64466cf8fd425e47a_MD5.png]]
+[[media/README/de67842473e3abc8b5ef0bb453477828_MD5.png|Open: Screenshot from 2024-03-24 12-05-53.png]]
+![[media/README/de67842473e3abc8b5ef0bb453477828_MD5.png]]
+
+[[media/README/0e49501b4b7827328d15804a10b6766d_MD5.png|Open: Screenshot from 2024-03-24 12-06-53.png]]
+![[media/README/0e49501b4b7827328d15804a10b6766d_MD5.png]]
+[[media/README/44894d8e1df149568022c45f80f0ddb9_MD5.png|Open: Screenshot from 2024-03-24 12-07-04.png]]
+![[media/README/44894d8e1df149568022c45f80f0ddb9_MD5.png]]
+[[media/README/4cb9b55e80f7048a7ff5711bbdf43515_MD5.png|Open: Screenshot from 2024-03-24 12-09-42.png]]
+![[media/README/4cb9b55e80f7048a7ff5711bbdf43515_MD5.png]]
+
+
 ## Install Atkinson Hyperlegible Font (Optional)
 Before opening this notebook in Obsidian, download and install the font: https://brailleinstitute.org/freefont.
 
 ## AI Commander API Key
 You need an OpenAI API key. You can generate one here: https://platform.openai.com/api-keys. I have set the model to ChatGPT-4, this might be too expensive for your tastes. You can select a different model from here: https://platform.openai.com/docs/models/continuous-model-upgrades. 
+[[media/README/62de4ca7fb3341162fb8d1b6dd373790_MD5.png|Open: Screenshot from 2024-03-24 12-10-04 1.png]]
+![[media/README/62de4ca7fb3341162fb8d1b6dd373790_MD5.png]]
 
 ## Omnivore.app API Key
 Go to [Omnivore.app](https://omnivore.app) to create an account and get an API Key, and then set that key in the Omnivore settings
+
+[[media/README/2caad796a7d8ba92ad58d37467e0d3f0_MD5.png|Open: Screenshot from 2024-03-24 12-10-43.png]]
+![[media/README/2caad796a7d8ba92ad58d37467e0d3f0_MD5.png]]
 
 # Installed Plugins 
 
@@ -68,8 +88,6 @@ Fetches Wikidata nodes. https://github.com/samwho/obsidian-wikidata-importer
 > **Wikidata** is a collaboratively edited multilingual knowledge graph hosted by the Wikimedia Foundation. It is a common source of open data that Wikimedia projects such as Wikipedia, and anyone else, is able to use under the CC0 public domain license. Wikidata is a wiki powered by the software MediaWiki, including its extension for semi-structured data, the Wikibase.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Wikidata)
-
-
 
 ## Wikipedia
 Fetches Wikipedia Summaries. https://github.com/jmilldotdev/obsidian-wikipedia
