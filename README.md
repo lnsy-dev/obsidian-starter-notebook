@@ -22,6 +22,14 @@ Read the [Obsidian Docs](https://help.obsidian.md/Home) for more information abo
 
 # Setup
 
+First, if you haven't already, download https://obsidian.md and get it installed. 
+
+Then you can download the app. You download the app by clicking the green button above and selecting download.
+
+![Screenshot from 2024-03-24 11-48-40](https://github.com/lnsy-dev/obsidian-starter-notebook/assets/41439429/3e43b5e8-2970-47aa-9ee0-d647db871aeb)
+
+![Screenshot from 2024-03-24 11-50-05](https://github.com/lnsy-dev/obsidian-starter-notebook/assets/41439429/055ece04-c4cf-4ba2-88a7-d5b2bcf11586)
+
 A few things need to be setup before you can use this notebook. 
 
 ## Install Atkinson Hyperlegible Font (Optional)
