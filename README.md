@@ -33,18 +33,13 @@ Then you can download the app. You download the app by clicking the green button
 A few things need to be setup before you can use this notebook. 
 
 Open the Obsidian app you installed. When you get to an editor page press ctrl-p or apple-key-p depending on your system. Here you will get the context menu with all of your options. 
+![Screenshot from 2024-03-24 12-05-06](https://github.com/lnsy-dev/obsidian-starter-notebook/assets/41439429/cd4bd91f-e08d-423f-a245-0a831574909d)
 
-[[media/README/6f63461daaa1d7d64466cf8fd425e47a_MD5.png|Open: Screenshot from 2024-03-24 12-05-06.png]]
-![[media/README/6f63461daaa1d7d64466cf8fd425e47a_MD5.png]]
-[[media/README/de67842473e3abc8b5ef0bb453477828_MD5.png|Open: Screenshot from 2024-03-24 12-05-53.png]]
-![[media/README/de67842473e3abc8b5ef0bb453477828_MD5.png]]
+![Screenshot from 2024-03-24 12-05-53](https://github.com/lnsy-dev/obsidian-starter-notebook/assets/41439429/5bead234-5beb-4ef7-a3db-b607c6f6c62a)
 
-[[media/README/0e49501b4b7827328d15804a10b6766d_MD5.png|Open: Screenshot from 2024-03-24 12-06-53.png]]
-![[media/README/0e49501b4b7827328d15804a10b6766d_MD5.png]]
-[[media/README/44894d8e1df149568022c45f80f0ddb9_MD5.png|Open: Screenshot from 2024-03-24 12-07-04.png]]
-![[media/README/44894d8e1df149568022c45f80f0ddb9_MD5.png]]
-[[media/README/4cb9b55e80f7048a7ff5711bbdf43515_MD5.png|Open: Screenshot from 2024-03-24 12-09-42.png]]
-![[media/README/4cb9b55e80f7048a7ff5711bbdf43515_MD5.png]]
+![Screenshot from 2024-03-24 12-06-53](https://github.com/lnsy-dev/obsidian-starter-notebook/assets/41439429/45b85344-3cd1-4650-942f-3dc079d02a04)
+![Screenshot from 2024-03-24 12-07-04](https://github.com/lnsy-dev/obsidian-starter-notebook/assets/41439429/1c44102d-5acc-43f6-826d-e898c8d31928)
+![Screenshot from 2024-03-24 12-09-42](https://github.com/lnsy-dev/obsidian-starter-notebook/assets/41439429/7751b46b-5961-4b7c-a215-3bf3bf9fa12f)
 
 
 ## Install Atkinson Hyperlegible Font (Optional)
@@ -52,14 +47,13 @@ Before opening this notebook in Obsidian, download and install the font: https:/
 
 ## AI Commander API Key
 You need an OpenAI API key. You can generate one here: https://platform.openai.com/api-keys. I have set the model to ChatGPT-4, this might be too expensive for your tastes. You can select a different model from here: https://platform.openai.com/docs/models/continuous-model-upgrades. 
-[[media/README/62de4ca7fb3341162fb8d1b6dd373790_MD5.png|Open: Screenshot from 2024-03-24 12-10-04 1.png]]
-![[media/README/62de4ca7fb3341162fb8d1b6dd373790_MD5.png]]
+![Screenshot from 2024-03-24 12-10-04](https://github.com/lnsy-dev/obsidian-starter-notebook/assets/41439429/15b8acc1-b1a1-4ac3-b832-988c6fa60bd7)
+![Screenshot from 2024-03-24 12-10-19](https://github.com/lnsy-dev/obsidian-starter-notebook/assets/41439429/73591aba-59fb-4a4e-a86d-5525e2bdb73d)
+![Screenshot from 2024-03-24 12-10-43](https://github.com/lnsy-dev/obsidian-starter-notebook/assets/41439429/87e731ac-4585-4851-961a-af983ecb3a6b)
+![Screenshot from 2024-03-24 12-12-03](https://github.com/lnsy-dev/obsidian-starter-notebook/assets/41439429/0abb73a7-4b27-4148-aab8-c9a744ad18aa)
 
 ## Omnivore.app API Key
 Go to [Omnivore.app](https://omnivore.app) to create an account and get an API Key, and then set that key in the Omnivore settings
-
-[[media/README/2caad796a7d8ba92ad58d37467e0d3f0_MD5.png|Open: Screenshot from 2024-03-24 12-10-43.png]]
-![[media/README/2caad796a7d8ba92ad58d37467e0d3f0_MD5.png]]
 
 # Installed Plugins 
 
