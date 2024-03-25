@@ -24,7 +24,7 @@ Read the [Obsidian Docs](https://help.obsidian.md/Home) for more information abo
 
 First, if you haven't already, download https://obsidian.md and get it installed. 
 
-Then you can download the app. You download the app by clicking the green button above and selecting download.
+Then you can download the obsidian notebook. You download the notebook by clicking the green button above and selecting download.
 
 ![Screenshot from 2024-03-24 11-48-40](https://github.com/lnsy-dev/obsidian-starter-notebook/assets/41439429/3e43b5e8-2970-47aa-9ee0-d647db871aeb)
 
