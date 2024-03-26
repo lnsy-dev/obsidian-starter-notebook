@@ -1,7 +1,7 @@
 {
   "accentColor": "#ffae00",
-  "theme": "obsidian",
-  "cssTheme": "Minimal",
+  "theme": "system",
+  "cssTheme": "Golden Topaz",
   "interfaceFontFamily": "Atkinson Hyperlegible",
   "textFontFamily": "Atkinson Hyperlegible",
   "translucency": false

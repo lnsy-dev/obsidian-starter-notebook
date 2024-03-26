@@ -152,13 +152,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-omnivore:Omnivore": false,
+      "periodic-notes:Open today": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
-      "periodic-notes:Open today": false
+      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
   "active": "a05df2a59d3cab30",
   "lastOpenFiles": [
+    "log/2024-03-26.md",
     "media/README/62de4ca7fb3341162fb8d1b6dd373790_MD5.png",
     "README.md",
     "media/README/2caad796a7d8ba92ad58d37467e0d3f0_MD5.png",

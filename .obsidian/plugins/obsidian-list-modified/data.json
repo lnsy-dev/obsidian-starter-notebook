@@ -1,0 +1,21 @@
+{
+  "tags": "",
+  "excludedFolders": "media",
+  "ignoredNameContains": "",
+  "outputFormat": "- [[link]]",
+  "appendSpaceAfterHeadings": false,
+  "timeFormat": "YYYY-MM-DD",
+  "autoCreateLogNote": true,
+  "logNoteType": "daily",
+  "writeInterval": 0,
+  "autoCreatePrimaryHeading": true,
+  "primaryHeading": "Changed Notes",
+  "modifiedHeading": "Modified",
+  "separateCreated": false,
+  "createdHeading": "Created",
+  "separateDeleted": false,
+  "deletedHeading": "Deleted",
+  "lastTrackedDate": "2024-03-26",
+  "trackedFiles": [],
+  "verboseModeEnabled": false
+}
