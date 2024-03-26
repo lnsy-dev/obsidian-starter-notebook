@@ -22,8 +22,14 @@ Read the [Obsidian Docs](https://help.obsidian.md/Home) for more information abo
 
 # Setup
 
+## Install Atkinson Hyperlegible Font (Optional)
+Before opening this notebook in Obsidian, download and install this font: https://brailleinstitute.org/freefont. 
+
+## Install Obsidian
+
 First, if you haven't already, download https://obsidian.md and install it. 
 
+## Download and Open Notebook
 Then you can download the obsidian notebook. You download the notebook by clicking the green button above and selecting download.
 
 ![Screenshot from 2024-03-24 11-48-40](https://github.com/lnsy-dev/obsidian-starter-notebook/assets/41439429/3e43b5e8-2970-47aa-9ee0-d647db871aeb)
@@ -40,10 +46,6 @@ Open the Obsidian app you installed. When you get to an editor page press ctrl-p
 ![Screenshot from 2024-03-24 12-06-53](https://github.com/lnsy-dev/obsidian-starter-notebook/assets/41439429/45b85344-3cd1-4650-942f-3dc079d02a04)
 ![Screenshot from 2024-03-24 12-07-04](https://github.com/lnsy-dev/obsidian-starter-notebook/assets/41439429/1c44102d-5acc-43f6-826d-e898c8d31928)
 ![Screenshot from 2024-03-24 12-09-42](https://github.com/lnsy-dev/obsidian-starter-notebook/assets/41439429/7751b46b-5961-4b7c-a215-3bf3bf9fa12f)
-
-
-## Install Atkinson Hyperlegible Font (Optional)
-Before opening this notebook in Obsidian, download and install the font: https://brailleinstitute.org/freefont.
 
 ## AI Commander API Key
 You need an OpenAI API key. You can generate one here: https://platform.openai.com/api-keys. I have set the model to ChatGPT-4, this might be too expensive for your tastes. You can select a different model from here: https://platform.openai.com/docs/models/continuous-model-upgrades. 
