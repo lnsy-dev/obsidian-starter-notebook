@@ -22,7 +22,7 @@ Read the [Obsidian Docs](https://help.obsidian.md/Home) for more information abo
 
 # Setup
 
-First, if you haven't already, download https://obsidian.md and get it installed. 
+First, if you haven't already, download https://obsidian.md and install it. 
 
 Then you can download the obsidian notebook. You download the notebook by clicking the green button above and selecting download.
 
