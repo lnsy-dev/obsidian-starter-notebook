@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4fa7817f21206770",
+        "id": "68cf0551e2b80b50",
         "type": "tabs",
         "children": [
           {
-            "id": "a05df2a59d3cab30",
+            "id": "502ed565988b3d01",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -152,16 +152,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-omnivore:Omnivore": false,
-      "periodic-notes:Open today": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
+      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
+      "periodic-notes:Open today": false,
+      "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "a05df2a59d3cab30",
+  "active": "95a2653ba574efee",
   "lastOpenFiles": [
+    "templates/journal-entry.md",
+    "templates/book.md",
+    "books",
+    "untitled folder",
+    "README.md",
     "log/2024-03-26.md",
     "media/README/62de4ca7fb3341162fb8d1b6dd373790_MD5.png",
-    "README.md",
     "media/README/2caad796a7d8ba92ad58d37467e0d3f0_MD5.png",
     "Screenshot from 2024-03-24 12-10-04.png",
     "media/README/4cb9b55e80f7048a7ff5711bbdf43515_MD5.png",

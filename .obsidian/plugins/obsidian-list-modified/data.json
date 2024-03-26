@@ -16,6 +16,32 @@
   "separateDeleted": false,
   "deletedHeading": "Deleted",
   "lastTrackedDate": "2024-03-26",
-  "trackedFiles": [],
+  "trackedFiles": [
+    {
+      "path": "README.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "untitled folder",
+      "supposedList": "created",
+      "matchesCriteria": false
+    },
+    {
+      "path": "books",
+      "supposedList": "created",
+      "matchesCriteria": false
+    },
+    {
+      "path": "templates/book.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "templates/journal-entry.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    }
+  ],
   "verboseModeEnabled": false
 }
