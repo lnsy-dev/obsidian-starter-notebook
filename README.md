@@ -65,8 +65,16 @@ Create a slide show, view it in browser at address https://localhost:3333. https
 ## AI Commander
 In notebook access to ChatGPT. https://github.com/yzh503/obsidian-aicommander-plugin
 
+# Book Search
+Easily create book notes.
+https://github.com/anpigon/obsidian-book-search-plugin
+
 ## Local Images Plus
 Auto-downloads pasted and created markdown files for offline access. https://github.com/Sergei-Korneev/obsidian-local-images-plus
+
+# List Modified
+This plugin links all modified files meeting certain criteria to a daily/weekly/monthly note. This provides an accurate log/archive of files modified on certain days.
+https://github.com/franciskafieh/obsidian-list-modified
 
 ## Omnivore.app
 A read later app that syncs beautifully with Obsidian. I have updated the settings with some sensible defaults. Articles are saved in the /articles folder. https://docs.omnivore.app/integrations/obsidian.html
